@@ -1,12 +1,8 @@
 ### Olá! Eu sou o Jhonathan 👋
 ##
-- 🔭 Atualmente trabalho como Vigilante patrimonial mas buscando a transição de carreira
+- 🔭 Atualmente trabalho como Vigilante patrimonial mas buscando a transição de carreira.
 - 🌱 Estudando Desenvolvimento Web
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
 - 📫 Contate-me no email: jhonathan.mdx@gmail.com
-- ⚡ Fun fact: ...
 ##
 <div>
   <a href="https://www.linkedin.com/in/jhonathan-ferreira" target="_blank">
