@@ -20,10 +20,8 @@
   <img aling="right" alt="Jhonathan-Calcifer" height="90" width="120" src="https://cdn.discordapp.com/attachments/934061798347391057/958288238521491476/200w.gif">
 </div>
 <div>
-  <a href="mailto:jhonathan.mdx@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"target="_blank"></a>
-  <a href="https://www.linkedin.com/in/jhonathan-ferreira"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"target="_blank"></a>
-  
-  
+  <a href="mailto:jhonathan.mdx@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/jhonathan-ferreira"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.facebook.com/jhonathan.silva.96/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
 </div>
-
 ##
