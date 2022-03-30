@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Jhonathan 👋
 ##
-- 🔭 Olá, meu nome é Jhonathan e tenho 28 anos. Sou estudante de programação, mas atualmente trabalho como Vigilante Patrimonial. Tenho interesse em tecnologia desde criança e tenho o objetivo de fazer a diferença ajudando pessoas por meio da tecnologia. No momento tenho foco na área de desenvolvimento web, mas sonho em um dia poder trabalhar com desenvolvimento de jogos.
+- 🔭 Sou estudante de programação, mas atualmente trabalho como Vigilante Patrimonial. Tenho interesse em tecnologia desde criança e tenho o objetivo de fazer a diferença ajudando pessoas por meio da tecnologia. No momento tenho foco na área de desenvolvimento web, mas sonho em um dia poder trabalhar com desenvolvimento de jogos.
 - 🌱 Estudando Desenvolvimento Web
 - 📫 Contate-me no email: jhonathan.mdx@gmail.com
 ##
