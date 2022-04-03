@@ -4,7 +4,7 @@
 - 🌱 Estudando Desenvolvimento Web
 - 📫 Contate-me no email: jhonathan.mdx@gmail.com
 ##
-<div>
+<div align="center">
   <a href="https://www.linkedin.com/in/jhonathan-ferreira" target="_blank">
   <img height="180em" alt="Jhonathanmdx's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Jhonathanmdx?cardType=github&theme=gotham"/> </a>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhonathanmdx&layout=compact&langs_count=7&theme=gotham"/>
